@@ -12,6 +12,7 @@
 		57A9CE392B68F42700D9ED73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57A9CE382B68F42700D9ED73 /* Assets.xcassets */; };
 		57A9CE3C2B68F42700D9ED73 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57A9CE3B2B68F42700D9ED73 /* Preview Assets.xcassets */; };
 		57A9CE432B690A1000D9ED73 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A9CE422B690A1000D9ED73 /* PostCell.swift */; };
+		57C5A58B2B6D3433002E6DB5 /* BindingSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C5A58A2B6D3433002E6DB5 /* BindingSample.swift */; };
 		57D6B61C2B6D04300046AB47 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D6B61B2B6D04300046AB47 /* CustomButton.swift */; };
 		57D6B61E2B6D1FC20046AB47 /* CustomCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D6B61D2B6D1FC20046AB47 /* CustomCount.swift */; };
 /* End PBXBuildFile section */
@@ -23,6 +24,7 @@
 		57A9CE382B68F42700D9ED73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57A9CE3B2B68F42700D9ED73 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		57A9CE422B690A1000D9ED73 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		57C5A58A2B6D3433002E6DB5 /* BindingSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingSample.swift; sourceTree = "<group>"; };
 		57D6B61B2B6D04300046AB47 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		57D6B61D2B6D1FC20046AB47 /* CustomCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCount.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,6 +61,7 @@
 			children = (
 				57A9CE342B68F42600D9ED73 /* MakingViewApp.swift */,
 				57D6B61B2B6D04300046AB47 /* CustomButton.swift */,
+				57C5A58A2B6D3433002E6DB5 /* BindingSample.swift */,
 				57D6B61D2B6D1FC20046AB47 /* CustomCount.swift */,
 				57A9CE362B68F42600D9ED73 /* ContentView.swift */,
 				57A9CE422B690A1000D9ED73 /* PostCell.swift */,
@@ -149,6 +152,7 @@
 				57D6B61C2B6D04300046AB47 /* CustomButton.swift in Sources */,
 				57A9CE372B68F42600D9ED73 /* ContentView.swift in Sources */,
 				57A9CE352B68F42600D9ED73 /* MakingViewApp.swift in Sources */,
+				57C5A58B2B6D3433002E6DB5 /* BindingSample.swift in Sources */,
 				57A9CE432B690A1000D9ED73 /* PostCell.swift in Sources */,
 				57D6B61E2B6D1FC20046AB47 /* CustomCount.swift in Sources */,
 			);
